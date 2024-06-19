@@ -1,1 +1,2 @@
-# winy website
+# winy-website
+Websity of winy project
